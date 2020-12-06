@@ -1,9 +1,9 @@
-{
-  "features": {
-    "graphqltransformer": {
-      "addmissingownerfields": true,
-      "validatetypenamereservedwords": true,
-      "useexperimentalpipelinedtransformer": false
-    }
-  }
-}
+// {
+//   "features": {
+//     "graphqltransformer": {
+//       "addmissingownerfields": true,
+//       "validatetypenamereservedwords": true,
+//       "useexperimentalpipelinedtransformer": false
+//     }
+//   }
+// }
